@@ -1,0 +1,7 @@
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_6\Erxercicio61\ExerciciosNivel_6\bin\Debug\ExerciciosNivel_6.exe.config
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_6\Erxercicio61\ExerciciosNivel_6\bin\Debug\ExerciciosNivel_6.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_6\Erxercicio61\ExerciciosNivel_6\bin\Debug\ExerciciosNivel_6.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_6\Erxercicio61\ExerciciosNivel_6\obj\Debug\Erxercicio61.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_6\Erxercicio61\ExerciciosNivel_6\obj\Debug\Erxercicio61.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_6\Erxercicio61\ExerciciosNivel_6\obj\Debug\ExerciciosNivel_6.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_6\Erxercicio61\ExerciciosNivel_6\obj\Debug\ExerciciosNivel_6.pdb
